@@ -1,0 +1,24 @@
+body{
+	background-color: white ;
+
+}
+h1{
+	color: grey;
+}
+
+   li a:link {
+    background-color: ;
+    color: black;
+    padding: 14px 25px;
+    text-align: center; 
+    display: inline-block;
+
+}
+li a:visited{
+	color: red;
+}
+ li a:hover, li a:active {
+    background-color: lightblue;
+    transform: scale(1.0);
+    text-decoration: underline;
+}
